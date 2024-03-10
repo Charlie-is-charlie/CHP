@@ -1,0 +1,32 @@
+欢迎使用
+
+          “ CHP_v1.0 ” 
+          
+使用说明
+
+          1、在 data.xlsx 中添加数据，符合相关性分析的数据结果，完成后保存
+          2、双击打开 heatmap.exe 即可
+          
+注意事项
+
+          请勿移动文件夹内文件的位置
+          
+———— 更新于2023年11月29日———— 
+
+
+
+Welcome to use
+
+          "CHP_v1.0" 
+           
+Instructions for use
+
+          1. Add data to data.xlsx that meets the results of correlation analysis, and save it when you're done
+          2. Double-click to open heatmap.exe
+          
+Notices
+
+          Do not move the location of the files in the folder
+          
+          
+———— Updated on Nov.29, 2023 ———— 
